@@ -1,0 +1,14 @@
+body {
+  width: 70%;
+  margin: 0 auto;
+  color: rgb(94, 89, 89);
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url(img/background.jpg);
+  margin: auto;
+}
+
+li {
+  font-weight:bolder;
+  font-size: 20px;
+  margin-top: 10px;
+}
